@@ -9,7 +9,7 @@ int value = 0;
 bool serialView = false;
 int scaledValue = 0;
 int waveForm = 1;
-int interruptor = 4;
+int interruptor = 1;
 
   // sine function
 const int sine[256] = {
